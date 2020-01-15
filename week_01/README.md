@@ -21,13 +21,17 @@ Yet, the urge to understand what Data Scientists do as means to define Data Scie
 
 Around the same time as Conway, a non-Venn-diagrammed view of Data Science was published in this very early post by Hillary Mason and Chris Wiggins (2010) - [__A taxonomy of Data Science__](http://www.dataists.com/2010/09/a-taxonomy-of-data-science/) - describing, possibly for the first time in writing, the tasks that in their view should define Data Science at the beginning of the 2010s.
 
-
 ### How is a Data Scientist different from a Data Engineer?
 
 If you have read, seen and listened to the references above, it will be clear that a good number of activities described as belonging to the realm of Data Science can be hard to distinguish from those performed in Data Engineering. But there is, and there should be a difference between both activities, although that is not always true in practice.
 
 Jesse Anderson's (2018) post - [__Data engineers vs. data scientists__](https://www.oreilly.com/radar/data-engineers-vs-data-scientists/) - makes a very crisp argument about the difference between data scientists and data engineering underscoring the limited skills overlap between both roles. His broader point: failing to recognize these differences might allocate people in the wrong roles.
 
+### Critical Thinking in Data Science
+
+In addition to understanding the technical discussions above, you should also know that __one of the most important skills that a Data Scientist must have is critical thinking__, in particular about data and its appropriateness to answer the question at hand. Put more colloquially, the ability to realize that _not all problems are nails to the Data Scientist's favorite hammer._
+
+Debbie Berebichez's (2019) interview - [__Critical Thinking in Data Science__](https://soundcloud.com/dataframed/critical-thinking-in-data-science) - in the [DataFramed podcast](https://soundcloud.com/dataframed) gives a very intuitive and personal perspective on what critical thinking should mean for a Data Scientist. Cassie Kozyrkov's (2019) article - [__The First Thing Great Decision Makers Do__](https://hbr.org/2019/06/the-first-thing-great-decision-makers-do) - adds to the argument by discussing the importance of thoroughly understanding the context of a problem to be able to think critically about how best to solve it, even before you start thinking of the Data Science tools to apply.  
 
 
 ### Current Best Practices in Data Science
