@@ -1,7 +1,16 @@
 
 # QMSS GR5069 - APPLIED DATA SCIENCE FOR SOCIAL SCIENTISTS
 
-[Marco Morales](mailto:marco.morales@columbia.edu), Columbia University
+<br/>
+
+__Instructor:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [__Marco Morales__](mailto:marco.morales@columbia.edu), Columbia University
+__Co-Instructor:__ &nbsp; [__Nana Yaw Essuman__](mailto:nanayawce@gmail.com), Columbia University
+
+
+__TA:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[__Ummugul Bezirhan__](mailto:ub2126@tc.columbia.edu), Columbia University
+<br/>
+
+
 
 This repository is a companion to the course __Applied Data Science for Social Scientists__ taught at the [__Quantitative Methods in the Social Sciences__](http://qmss.columbia.edu/) program over the Spring of 2020.
 
