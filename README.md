@@ -3,7 +3,7 @@
 
 <br/>
 
-__Instructor:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [__Marco Morales__](mailto:marco.morales@columbia.edu), Columbia University
+__Instructor:__ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [__Marco Morales__](mailto:marco.morales@columbia.edu), Columbia University\
 __Co-Instructor:__ &nbsp; [__Nana Yaw Essuman__](mailto:nanayawce@gmail.com), Columbia University
 
 
