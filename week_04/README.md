@@ -1,8 +1,18 @@
 ## WEEK 4 - WORKSHOP: Coding Etiquette
 
-It's always delightful to start with the masters, and there is no larger master in this area than [Don Knuth](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html). You may have heard his name because he's authored the still ongoing collection of books - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). Let's begin this week by reading his 1974 ACM Turing Award Lecture - [__Computer Programming as an Art__](https://dl.acm.org/ft_gateway.cfm?id=1283929&type=pdf). An incredibly thoughtful and scholarly view of what coding is - and should be - all about:
+It is always delightful to start with the masters, and there is no larger master in this area than [Don Knuth](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html). You may have heard his name because he's authored the still ongoing collection of books - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). Let's begin this week by reading his 1974 ACM Turing Award Lecture - [__Computer Programming as an Art__](https://dl.acm.org/ft_gateway.cfm?id=1283929&type=pdf). An incredibly thoughtful and scholarly view of what coding is - and should be - all about:
 
 > computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
+
+One thing we should not forget is that __computational thinking is the deeper skill for Data Scientists to learn__. Unfortunately, it is not always natural for social scientists to think as Data Scientists when it comes to exploiting the advantages of computing processes. 
+
+A fantastic introduction to starting to leverage mental tools developed in computer science is Jeanette Wing's (2006) article - [__Computational Thinking__](https://dl-acm-org.ezproxy.cul.columbia.edu/doi/10.1145/1118178.1118215) - where she carefully describes what computer thinking is about and why it is tremendously useful for all disciplines. Understanding this will go a long way to collaborate effectively with data and machine-learning engineers. In her own words:
+
+> Computational thinking involves solving problems, designing systems, and understanding human behavior, by drawing on the concepts fundamental to computer science. Computational thinking includes a range of __mental tools__ that reflect the breadth of the field of computer science.
+[...]
+Computational thinking is using abstraction and decomposition when attacking a large complex task or designing a large complex system. It is __separation of concerns__. It is choosing an appropriate representation of a problem or modeling the relevant aspects of a problem to make it tractable. [...] It is modularizing something in anticipation of multiple users or prefetching and caching in anticipation of future use.   
+[...]
+Computational thinking is thinking in terms of __prevention__, __protection__, and __recovery from worst-case scenarios__ through __redundancy__, __damage containment__, and __error correction__.
 
 With that background, we can jump directly to reading about coding best practices for social scientists in this old article by Jonathan Nagler (1995) - [__Coding Style and Good Computing Practices__](http://www.jstor.org/stable/420315) - providing  very useful advice on coding as related to ETL and data analysis. Still incredibly relevant advice. If you only have a few minutes to skim, that  piece was more recently (2015) updated and summarized in a blog post - [__Writing Good Code__](https://blog.oup.com/2015/02/jonathan-nagler-writing-good-code/).
 
